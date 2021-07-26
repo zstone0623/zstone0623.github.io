@@ -22,7 +22,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV-5+体育赛事
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV-5+体育赛事HD
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视",CCTV-6电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226393/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视",CCTV-6电影HD
