@@ -203,3 +203,7 @@ http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 http://61.244.22.5/ch5/info_ch5.live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国环球" tvg-logo="" group-title="港澳台",中国环球
 http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",VIU TV
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",VIU TV
+https://cdn.hkdtmb.com/hls/84/index.m3u8
