@@ -205,3 +205,23 @@ http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 http://61.244.22.5/ch5/info_ch5.live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国环球" tvg-logo="" group-title="港澳台",中国环球
 http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="咪咕体育" tvg-logo="" group-title="咪咕视频",咪咕体育1
+http://111.13.42.12/PLTV/88888888/224/3221226374/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="咪咕体育" tvg-logo="" group-title="咪咕视频",咪咕体育2
+http://111.13.42.12/PLTV/88888888/224/3221226380/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="咪咕体育" tvg-logo="" group-title="咪咕视频",咪咕体育3
+http://111.13.42.12/PLTV/88888888/224/3221226391/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="咪咕体育" tvg-logo="" group-title="咪咕视频",咪咕体育4
+http://111.13.42.12/PLTV/88888888/224/3221226567/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="咪咕体育" tvg-logo="" group-title="咪咕视频",咪咕体育5
+http://111.13.42.43/PLTV/88888888/224/3221226397/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="咪咕体育" tvg-logo="" group-title="咪咕视频",咪咕体育6
+http://111.13.42.43/PLTV/88888888/224/3221226398/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="咪咕体育" tvg-logo="" group-title="咪咕视频",咪咕体育7
+http://111.13.42.47/PLTV/88888888/224/3221226372/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="咪咕体育" tvg-logo="" group-title="咪咕视频",咪咕体育8
+http://111.13.42.47/PLTV/88888888/224/3221226376/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="咪咕体育" tvg-logo="" group-title="咪咕视频",咪咕体育9
+http://111.13.42.47/PLTV/88888888/224/3221226381/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="咪咕体育" tvg-logo="" group-title="咪咕视频",咪咕体育10
+http://111.13.42.47/PLTV/88888888/224/3221226392/1.m3u8
