@@ -20,7 +20,7 @@ http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5体育HD
 http://39.134.39.39/PLTV/88888888/224/3221226151/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5备1
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
+http://223.110.242.142:6610/gitv/live1/G_CCTV-5-MD/G_CCTV-5-MD/
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5备2
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5备3
@@ -152,7 +152,7 @@ http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221226376/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" tvg-id="1984" tvg-name="上视新闻频道" group-title="地方台",上视新闻频道
 http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" tvg-id="1987" tvg-name="五星体育频道" group-title="地方台",五星体育频道
-http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8
+http://180.175.126.86:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" tvg-id="1964" tvg-name="劲爆体育" group-title="地方台",劲爆体育
 http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" tvg-id="1989" tvg-name="上海都市频道" group-title="地方台",上海都市频道
@@ -176,7 +176,7 @@ http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RHK32" tvg-logo="" group-title="港澳台",港台新闻
 http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
-https://p2.weizan.cn/1646497941/173900819035303680/live.m3u8
+https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",TVB明珠台
 http://124.238.99.44:808/hls/355/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",TVB J2
