@@ -152,7 +152,7 @@ http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221226376/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" tvg-id="1984" tvg-name="上视新闻频道" group-title="地方台",上视新闻频道
 http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" tvg-id="1987" tvg-name="五星体育频道" group-title="地方台",五星体育频道
-http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" tvg-id="1977" tvg-name="欢笑剧场" group-title="地方台",欢笑剧场
 http://180.175.126.86:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" tvg-id="1989" tvg-name="上海都市频道" group-title="地方台",上海都市频道
