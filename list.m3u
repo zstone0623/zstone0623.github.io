@@ -122,7 +122,7 @@ http://39.134.65.183/PLTV/88888888/224/3221225871/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" tvg-id="50" tvg-name="江西卫视" group-title="卫视",江西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" tvg-id="51" tvg-name="吉林卫视" group-title="卫视",吉林卫视
-http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225883/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" tvg-id="52" tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
 http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221225836/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" tvg-id="53" tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
