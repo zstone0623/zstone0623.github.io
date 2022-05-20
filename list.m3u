@@ -181,6 +181,14 @@ http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="法制天地" tvg-logo="" group-title="地方台",法制天地
 http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunanjs.png" group-title="地方台",湖南经视
+http://124.232.233.15:6610/000000001001/201600020002/1400.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="http://n.ysyz.top:99/buyaolian/hunands.png" group-title="地方台",湖南都市
+http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="http://n.ysyz.top:99/buyaolian/hunanyl.png" group-title="地方台",湖南娱乐
+http://124.232.233.15:6610/000000001001/201600020004/1400.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖南公共" tvg-name="湖南公共" tvg-logo="http://n.ysyz.top:99/buyaolian/hunangg.png" group-title="地方台",湖南公共
+http://124.232.233.15:6610/000000001001/201600020007/1400.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="RHK31" tvg-logo="" group-title="港澳台",港台电视
 http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RHK32" tvg-logo="" group-title="港澳台",港台新闻
