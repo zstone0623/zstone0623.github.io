@@ -124,7 +124,7 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" tvg-id="53" tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" tvg-id="54" tvg-name="山西卫视" group-title="卫视",山西卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221225730/index.m3u8
+http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000032/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-id="55" tvg-name="陕西卫视" group-title="卫视",陕西卫视
 http://125.210.152.19:9090/live/hszx-sxtv-h264.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" tvg-id="56" tvg-name="四川卫视" group-title="卫视",四川卫视
