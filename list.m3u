@@ -20,9 +20,9 @@ http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5体育HD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV-5+体育赛事
-http://39.135.55.39:6610/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV-5+体育赛事HD
-#http://39.135.55.39:6610/PLTV/88888888/224/3221225939/index.m3u8?servicetype=1
+http://39.135.55.39:6610/PLTV/88888888/224/3221225939/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视",CCTV-6电影
 http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视",CCTV-6电影HD
@@ -78,11 +78,11 @@ http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000324/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-id="28" tvg-name="浙江卫视" group-title="卫视",浙江卫视
 http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000305/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-id="29" tvg-name="江苏卫视" group-title="卫视",江苏卫视
-http://39.135.55.39:6610/PLTV/88888888/224/3221225847/index.m3u8?servicetype=1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-id="30" tvg-name="北京卫视" group-title="卫视",北京卫视
 http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000302/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-id="31" tvg-name="东方卫视" group-title="卫视",东方卫视
-http://39.135.55.39:6610/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" tvg-id="32" tvg-name="安徽卫视" group-title="卫视",安徽卫视
 http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000328/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" tvg-id="33" tvg-name="广东卫视" group-title="卫视",广东卫视
