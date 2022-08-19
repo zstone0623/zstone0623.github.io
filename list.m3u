@@ -78,7 +78,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-id="28" tvg-name="浙江卫视" group-title="卫视",浙江卫视
 http://111.40.196.9/PLTV/88888888/224/3221225510/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-id="29" tvg-name="江苏卫视" group-title="卫视",江苏卫视
-http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225578/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-id="30" tvg-name="北京卫视" group-title="卫视",北京卫视
 http://111.12.101.22:6610/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-id="31" tvg-name="东方卫视" group-title="卫视",东方卫视
