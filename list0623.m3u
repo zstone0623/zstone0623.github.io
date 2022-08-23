@@ -96,11 +96,11 @@ http://183.207.248.11/PLTV/4/224/3221225810/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-id="38" tvg-name="山东卫视" group-title="卫视",山东卫视
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" tvg-id="39" tvg-name="天津卫视" group-title="卫视",天津卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" tvg-id="40" tvg-name="重庆卫视" group-title="卫视",重庆卫视
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" tvg-id="41" tvg-name="东南卫视" group-title="卫视",东南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" tvg-id="42" tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
 http://111.63.117.13:6060/030000001000/G_GANSU/G_GANSU.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="43" tvg-name="广西卫视" group-title="卫视",广西卫视
