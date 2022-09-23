@@ -102,7 +102,7 @@ http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=10000000020
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" tvg-id="41" tvg-name="东南卫视" group-title="卫视",东南卫视
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" tvg-id="42" tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
-http://140.207.241.2:8080/live/program/live/gsws/1300000/mnf.m3u8
+http://117.169.121.162:6610/PLTV/88888910/224/3221225724/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="43" tvg-name="广西卫视" group-title="卫视",广西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" tvg-id="44" tvg-name="贵州卫视" group-title="卫视",贵州卫视
@@ -126,7 +126,7 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" tvg-id="54" tvg-name="山西卫视" group-title="卫视",山西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-id="55" tvg-name="陕西卫视" group-title="卫视",陕西卫视
-http://140.207.241.2:8080/live/program/live/sxws/1300000/mnf.m3u8
+http://117.169.121.162:6610/PLTV/88888910/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" tvg-id="56" tvg-name="四川卫视" group-title="卫视",四川卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-id="57" tvg-name="新疆卫视" group-title="卫视",新疆卫视
