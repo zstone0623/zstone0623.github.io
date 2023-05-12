@@ -172,13 +172,13 @@ http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/m
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" tvg-id="1981" tvg-name="生活时尚" group-title="地方台",生活时尚
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" tvg-id="62" tvg-name="哈哈炫动" group-title="地方台",哈哈炫动
-http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
+http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/xdkt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" tvg-id="1985" tvg-name="第一财经" group-title="地方台",第一财经
-http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
+http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" tvg-id="1956" tvg-name="七彩戏剧" group-title="地方台",七彩戏剧
-http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
+http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="法制天地" tvg-logo="" group-title="地方台",法制天地
-http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
+http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="" group-title="港澳台",澳门卫视
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳视资讯" tvg-logo="" group-title="港澳台",澳视资讯
