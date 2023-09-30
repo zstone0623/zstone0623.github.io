@@ -180,16 +180,15 @@ http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.
 #EXTINF:-1 tvg-id="" tvg-name="法制天地" tvg-logo="" group-title="地方台",法制天地
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门卫视" tvg-logo="" group-title="港澳台",澳门卫视
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="澳视资讯" tvg-logo="" group-title="港澳台",澳视资讯
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="中国环球" tvg-logo="" group-title="港澳台",中国环球
-http://live.cgtn.com/500/prog_index.m3u8
+
 EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="港澳台",凤凰中文
-http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzw
+
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="" group-title="港澳台",凤凰资讯
-http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
+
 #EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="" group-title="港澳台",星空卫视
-http://iptv.weai.love/10010/88888888/gxgg.play?tvid=xkws
+
 #EXTINF:-1 tvg-id="" tvg-name="Channel[V]" tvg-logo="" group-title="港澳台",Channel[V]
-http://iptv.weai.love/10010/88888888/gxgg.play?tvid=channel_v
